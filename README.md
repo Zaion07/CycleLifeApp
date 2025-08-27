@@ -34,5 +34,3 @@ Um aplicativo Android simples desenvolvido em **Kotlin** com **XML layouts**, cr
 - **Layouts XML**  
 
 
-## 📂 Estrutura do Projeto
-
